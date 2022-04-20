@@ -125,7 +125,7 @@ if __name__ == '__main__':
         print(nb_epochs)
         featureNum = dataset_feature[dataset]
         print(featureNum)
-        for itr in range(1):
+        for itr in range(3):
             print('dataset', dataset)
             print('epoch', nb_epochs)
             print('itr', itr)
